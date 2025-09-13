@@ -1,13 +1,13 @@
-# To-Do-List_App
+To-Do-List_App
 A simple and interactive To-Do List App built with React (Vite). Add, delete, and reorder tasks with a clean and responsive UI. Perfect for beginners learning React and state management.
 
-#🚀 Features
+🚀 Features
 - Add new tasks
 - Delete tasks
 - Move tasks **up & down** in the list
 - Responsive & styled with custom CSS
 
-# 📂 Project Structure
+📂 Project Structure
 todolist/
 ├── public/
 ├── src/
@@ -22,12 +22,11 @@ todolist/
 
 ---
 
-# 🛠️ Installation & Setup
+🛠️ Installation & Setup
 
 1. Clone the repository:
-   ```sh
-git clone https://github.com/Chandanbm45/To-Do-List_App.git
-cd To-Do-List_App
+   git clone https://github.com/Chandanbm45/To-Do-List_App.git
+   cd To-Do-List_App
 
 2. Navigate into the folder:
     cd todolist
@@ -50,8 +49,6 @@ cd To-Do-List_App
 📌 Technologies Used
 
 React (with Vite)
-
 JavaScript (ES6+)
-
 CSS (Custom Styling)
 
